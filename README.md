@@ -26,9 +26,9 @@ Make sure you have Python installed on your system. You can download it from the
 
 1. **Download installer**
 
-    ```sh
+
     [DOWNLOAD LINK](https://bit.ly/3UZJ92L)
-    ```
+
 
 2. **Install the required modules**
 
